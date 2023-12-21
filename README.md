@@ -1,7 +1,7 @@
 # hello_soroban
 
 ```sh
-cargo install --locked --version 20.0.2 soroban-cli --features opt
+cargo install --locked --version 20.1.0 soroban-cli --features opt
 
 soroban config network add --global futurenet \
   --rpc-url https://rpc-futurenet.stellar.org:443 \
